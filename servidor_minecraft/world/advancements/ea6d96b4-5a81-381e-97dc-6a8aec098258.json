@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "cfm:privacy": {
+    "criteria": {
+      "get_blinds_or_curtains": "2024-12-02 23:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:51 +0000"
