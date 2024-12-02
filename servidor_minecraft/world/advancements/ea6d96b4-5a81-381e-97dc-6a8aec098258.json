@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "cfm:bathroom": {
+    "criteria": {
+      "get_bathroom_furniture": "2024-12-02 23:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/speckled_melon": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:51 +0000"
@@ -410,6 +416,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:what_did_you_eat": {
+    "criteria": {
+      "player_fart": "2024-12-02 23:28:00 +0000"
     },
     "done": true
   },
@@ -2008,6 +2020,12 @@
     },
     "done": true
   },
+  "cfm:dingdong": {
+    "criteria": {
+      "clicked_doorbell": "2024-12-02 23:31:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:52 +0000"
@@ -2215,6 +2233,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:heyeyey": {
+    "criteria": {
+      "placed_tv": "2024-12-02 23:33:05 +0000"
     },
     "done": true
   },
@@ -3013,6 +3037,12 @@
   "defiledlands:recipes/storage/scarlite_block_uncraft": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:appliance_city": {
+    "criteria": {
+      "place_appliance": "2024-12-02 23:27:49 +0000"
     },
     "done": true
   },

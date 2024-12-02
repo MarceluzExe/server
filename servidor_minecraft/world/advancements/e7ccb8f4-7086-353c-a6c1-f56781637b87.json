@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "cfm:bathroom": {
+    "criteria": {
+      "get_bathroom_furniture": "2024-12-02 23:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/speckled_melon": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:58 +0000"
@@ -416,6 +422,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:what_did_you_eat": {
+    "criteria": {
+      "player_fart": "2024-12-02 23:28:19 +0000"
     },
     "done": true
   },
