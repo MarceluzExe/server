@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-02 22:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:58 +0000"
@@ -788,6 +794,12 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:58 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_barako": {
+    "criteria": {
+      "barako": "2024-12-02 22:56:55 +0000"
     },
     "done": true
   },
@@ -1286,7 +1298,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-02 03:20:05 +0000",
+      "deep_ocean": "2024-12-02 22:51:26 +0000",
       "taiga": "2024-12-02 03:19:41 +0000",
+      "ocean": "2024-12-02 22:52:04 +0000",
       "extreme_hills": "2024-12-02 03:19:15 +0000",
       "river": "2024-12-02 03:19:11 +0000"
     },
@@ -2759,6 +2773,12 @@
   "defiledlands:recipes/decoration/tenebra_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:58 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-02 22:54:37 +0000"
     },
     "done": true
   },
