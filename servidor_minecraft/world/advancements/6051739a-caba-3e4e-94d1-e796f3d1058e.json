@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-02 22:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_the_recipe": "2024-12-02 22:50:12 +0000"
@@ -1958,6 +1964,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-02 22:58:05 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/decoration/wood_defiled_slab_tenebra": {
     "criteria": {
       "has_the_recipe": "2024-12-02 22:50:12 +0000"
@@ -2873,6 +2885,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "has_the_recipe": "2024-12-02 22:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-02 22:57:35 +0000"
     },
     "done": true
   },

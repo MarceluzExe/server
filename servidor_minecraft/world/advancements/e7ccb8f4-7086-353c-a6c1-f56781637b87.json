@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "mowziesmobs:steal_ice_crystal": {
+    "criteria": {
+      "steal_crystal": "2024-12-02 23:05:39 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/umbrium_helmet": {
     "criteria": {
       "has_the_recipe": "2024-12-02 03:17:58 +0000"
@@ -1299,6 +1305,7 @@
     "criteria": {
       "forest": "2024-12-02 03:20:05 +0000",
       "deep_ocean": "2024-12-02 22:51:26 +0000",
+      "beaches": "2024-12-02 23:03:54 +0000",
       "taiga": "2024-12-02 03:19:41 +0000",
       "ocean": "2024-12-02 22:52:04 +0000",
       "extreme_hills": "2024-12-02 03:19:15 +0000",
