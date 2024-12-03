@@ -2293,6 +2293,12 @@
     },
     "done": true
   },
+  "cfm:heyeyey": {
+    "criteria": {
+      "placed_tv": "2024-12-03 02:23:31 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/decoration/stone_defiled_slab_stone": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:47:57 +0000"
