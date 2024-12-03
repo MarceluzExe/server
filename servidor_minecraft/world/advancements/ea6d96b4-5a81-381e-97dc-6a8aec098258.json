@@ -744,6 +744,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oil": {
+    "criteria": {
+      "in_oil": "2024-12-03 01:25:31 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/scale_helmet": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:47:57 +0000"
