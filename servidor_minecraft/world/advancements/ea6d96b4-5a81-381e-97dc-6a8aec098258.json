@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:shark_target_player": {
+    "criteria": {
+      "targeted": "2024-12-03 00:07:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:47:57 +0000"
@@ -1306,7 +1312,11 @@
     "criteria": {
       "beaches": "2024-12-02 23:58:15 +0000",
       "redwood_taiga": "2024-12-02 23:51:43 +0000",
-      "taiga": "2024-12-02 23:47:57 +0000"
+      "taiga": "2024-12-02 23:47:57 +0000",
+      "redwood_taiga_hills": "2024-12-03 00:10:43 +0000",
+      "taiga_hills": "2024-12-03 00:11:20 +0000",
+      "ocean": "2024-12-03 00:07:56 +0000",
+      "river": "2024-12-03 00:11:56 +0000"
     },
     "done": false
   },

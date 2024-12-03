@@ -1293,7 +1293,9 @@
     "criteria": {
       "beaches": "2024-12-02 23:58:21 +0000",
       "redwood_taiga": "2024-12-02 23:53:28 +0000",
-      "taiga": "2024-12-02 23:50:15 +0000"
+      "taiga": "2024-12-02 23:50:15 +0000",
+      "redwood_taiga_hills": "2024-12-03 00:07:25 +0000",
+      "river": "2024-12-03 00:08:45 +0000"
     },
     "done": false
   },
@@ -1903,6 +1905,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-12-03 00:12:45 +0000",
+      "cooked_beef": "2024-12-03 00:11:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:50:15 +0000"
@@ -2134,6 +2143,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 00:11:43 +0000"
     },
     "done": true
   },
@@ -2856,6 +2871,12 @@
       "has_the_recipe": "2024-12-02 23:50:15 +0000"
     },
     "done": true
+  },
+  "betteranimalsplus:squirrel_kill_100": {
+    "criteria": {
+      "squirrel_kill1": "2024-12-03 00:12:25 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
