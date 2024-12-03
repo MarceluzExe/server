@@ -2014,3 +2014,62 @@
 [02:47:37] [Server thread/INFO] []: Spacing is at2600
 [02:47:37] [Server thread/INFO] []: Spacing is at2601
 [02:47:38] [Server thread/INFO] []: Spacing is at2602
+[02:47:43] [Server thread/INFO] []: Spacing is at2603
+[02:47:43] [Server thread/INFO] []: Spacing is at2604
+[02:47:43] [Server thread/INFO] []: Spacing is at2605
+[02:47:43] [Server thread/INFO] []: Spacing is at2606
+[02:47:43] [Server thread/INFO] []: Spacing is at2607
+[02:47:43] [Server thread/INFO] []: Spacing is at2608
+[02:47:43] [Server thread/INFO] []: Spacing is at2609
+[02:47:44] [Server thread/INFO] []: Spacing is at2610
+[02:47:44] [Server thread/INFO] []: Spacing is at2611
+[02:47:44] [Server thread/INFO] []: Spacing is at2612
+[02:47:44] [Server thread/INFO] []: Spacing is at2613
+[02:47:44] [Server thread/INFO] []: Spacing is at2614
+[02:47:44] [Server thread/INFO] []: Spacing is at2615
+[02:47:44] [Server thread/INFO] []: Spacing is at2616
+[02:47:44] [Server thread/INFO] []: Spacing is at2617
+[02:47:44] [Server thread/INFO] []: Spacing is at2618
+[02:47:44] [Server thread/INFO] []: Spacing is at2619
+[02:47:44] [Server thread/INFO] []: Spacing is at2620
+[02:47:51] [Server thread/INFO] []: Spacing is at2621
+[02:47:52] [Server thread/INFO] []: Spacing is at2622
+[02:47:53] [Server thread/INFO] []: Spacing is at2623
+[02:47:53] [Server thread/INFO] []: Spacing is at2624
+[02:47:57] [Server thread/INFO] []: Spacing is at2625
+[02:47:57] [Server thread/INFO] []: Spacing is at2626
+[02:47:57] [Server thread/INFO] []: Spacing is at2627
+[02:47:57] [Server thread/INFO] []: Spacing is at2628
+[02:48:02] [Server thread/INFO] []: Spacing is at2629
+[02:48:02] [Server thread/INFO] []: Spacing is at2630
+[02:48:02] [Server thread/INFO] []: Spacing is at2631
+[02:48:02] [Server thread/INFO] []: Spacing is at2632
+[02:48:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:06] [Server thread/INFO] []: Spacing is at2633
+[02:48:06] [Server thread/INFO] []: Spacing is at2634
+[02:49:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Vnknxwnexe issued server command: /tp MyrkByOrn Vnknxwnexe
+[02:49:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Vnknxwnexe: Teleported MyrkByOrn to Vnknxwnexe]
+[02:53:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:53:35] [Server thread/INFO] []: Spacing is at2635
+[02:53:35] [Server thread/INFO] []: Spacing is at2636
+[02:55:15] [Server thread/INFO] []: Spacing is at2637
+[02:55:50] [Server thread/INFO] []: Unknown command. Type "/help" for help.
+[02:56:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Vnknxwnexe lost connection: Disconnected
+[02:56:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe left the game
+[02:57:03] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Vnknxwnexe is ea6d96b4-5a81-381e-97dc-6a8aec098258
+[02:57:04] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:57:04] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:57:04] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:57:04] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:57:04] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:49 mods->FMLHandshakeServerState$2:HELLO
+[02:57:04] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 49 mods : mowziesmobs@1.5.8,mca@6.1.0,creativecoredummy@1.0.0,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.1013,modularwarfare@2.4.2f,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,legacy_dweller@1.0.0,travelersbackpack@1.0.35,betteranimalsplus@9.0.1,pvj@1.6.4,betteranimationscollection2@1.0.2,llibrary@1.7.20,iceandfire@1.9.1,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,skinlayers3d@1.2.0,forge@14.23.5.2859,castle_dungeons@1.3,simpletomb@1.12.2-1.0.0,ancientbeasts@1.9.99999,betterpingdisplay@1.0,minecraft@1.12.2,openterraingenerator@v9.5-R2,baubles@1.5.2,creativecore@1.10.0,defiledlands@1.4.3,horror_elements_mod@1.0.0,eyesinthedarkness@0.1.0,quark@r1.6-179,xaerominimap@24.6.1,collective@3.0,weeping-angels@1.12.2-46,otgcore@1.12.2-v9.5-R2,autoreglib@1.3-32,galacticraftcore@4.0.6,FML@8.0.99.99,srparasites@1.9.21,cfm@6.3.0,xaerominimap_core@1.12.2-1.0,charm@1.4,infinitetrading@1.4,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30,playerrevive@1.0,da@0.0.7,mcwlights@1.0.6
+[02:57:04] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[02:57:04] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[02:57:04] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:57:04] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[02:57:05] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:57:05] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[02:57:05] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:57:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:57:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Vnknxwnexe[/100.101.152.116:53991] logged in with entity id 7388857 at ([world]260.7389316025036, 63.0, 628.3058624457781)
+[02:57:06] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
