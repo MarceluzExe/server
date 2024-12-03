@@ -1476,6 +1476,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2024-12-03 00:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:47:57 +0000"
@@ -1887,6 +1893,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:47:57 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2024-12-03 00:46:29 +0000"
     },
     "done": true
   },
@@ -2831,6 +2843,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:47:57 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2024-12-03 00:46:29 +0000"
     },
     "done": true
   },
