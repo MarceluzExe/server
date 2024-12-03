@@ -1317,6 +1317,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "beaches": "2024-12-02 23:58:21 +0000",
+      "desert_hills": "2024-12-03 01:34:32 +0000",
       "redwood_taiga": "2024-12-02 23:53:28 +0000",
       "taiga": "2024-12-02 23:50:15 +0000",
       "redwood_taiga_hills": "2024-12-03 00:07:25 +0000",
@@ -1951,7 +1952,8 @@
       "cooked_beef": "2024-12-03 00:11:43 +0000",
       "rotten_flesh": "2024-12-03 00:49:51 +0000",
       "cooked_chicken": "2024-12-03 00:28:47 +0000",
-      "cooked_salmon": "2024-12-03 01:20:37 +0000"
+      "cooked_salmon": "2024-12-03 01:20:37 +0000",
+      "carrot": "2024-12-03 01:42:36 +0000"
     },
     "done": false
   },
