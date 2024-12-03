@@ -1659,3 +1659,6 @@
 [02:15:28] [Server thread/INFO] []: Spacing is at2255
 [02:15:28] [Server thread/INFO] []: Spacing is at2256
 [02:15:30] [Server thread/INFO] []: Spacing is at2257
+[02:18:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:23:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:23:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe has made the advancement [HEYYEYAAEYAAAEYAEYAA]
