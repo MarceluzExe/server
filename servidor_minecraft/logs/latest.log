@@ -1593,3 +1593,29 @@
 [01:40:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: sedgonxx lost connection: Disconnected
 [01:40:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sedgonxx left the game
 [01:42:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:47:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:51:24] [Server thread/INFO] []: Spacing is at2205
+[01:51:24] [Server thread/INFO] []: Spacing is at2206
+[01:51:24] [Server thread/INFO] []: Spacing is at2207
+[01:51:24] [Server thread/INFO] []: Spacing is at2208
+[01:51:24] [Server thread/INFO] []: Spacing is at2209
+[01:51:24] [Server thread/INFO] []: Spacing is at2210
+[01:51:24] [Server thread/INFO] []: Spacing is at2211
+[01:51:25] [Server thread/INFO] []: Spacing is at2212
+[01:51:25] [Server thread/INFO] []: Spacing is at2213
+[01:51:25] [Server thread/INFO] []: Spacing is at2214
+[01:51:25] [Server thread/INFO] []: Spacing is at2215
+[01:51:25] [Server thread/INFO] []: Spacing is at2216
+[01:51:25] [Server thread/INFO] []: Spacing is at2217
+[01:51:25] [Server thread/INFO] []: Spacing is at2218
+[01:51:25] [Server thread/INFO] []: Spacing is at2219
+[01:51:25] [Server thread/INFO] []: Spacing is at2220
+[01:51:25] [Server thread/DEBUG] [FML]: Quark loaded a new chunk [2, 50] in dimension 0 (overworld) while populating chunk [3, 50], causing cascading worldgen lag.
+[01:51:25] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:25] [Server thread/INFO] []: Spacing is at2221
+[01:51:25] [Server thread/INFO] []: Spacing is at2222
+[01:51:25] [Server thread/INFO] []: Spacing is at2223
+[01:51:25] [Server thread/INFO] []: Spacing is at2224
+[01:51:25] [Server thread/INFO] []: Spacing is at2225
+[01:51:28] [Server thread/INFO] []: Spacing is at2226
+[01:52:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
