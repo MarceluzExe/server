@@ -28388,3 +28388,93 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancientbeasts:witchcraft_tabl
 [01:20:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe has made the advancement [Best Friends Forever]
 [01:22:00] [Server thread/INFO] [mca]: Villager death: Parelela. Caused by: Vnknxwnexe. UUID: 5d2fce38-17f7-483b-86d6-91953daae31d
 [01:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe has made the advancement [Would you Like to Know More?]
+[01:25:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:16] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[01:29:16] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[01:29:16] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[01:29:16] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[01:29:16] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[01:29:16] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[01:29:16] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[01:29:16] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[01:29:16] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[01:29:16] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[01:29:16] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[01:29:16] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[01:29:16] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[01:29:16] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[01:29:16] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[01:29:16] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[01:29:16] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[01:29:16] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[01:29:16] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[01:29:16] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[01:29:16] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[01:29:17] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[01:29:17] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[01:29:17] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[01:29:21] [Server thread/INFO] []: Spacing is at0
+[01:29:21] [Server thread/INFO] []: Spacing is at1
+[01:29:25] [Server thread/INFO] []: Spacing is at2
+[01:29:25] [Server thread/INFO] []: Spacing is at3
+[01:29:25] [Server thread/INFO] []: Spacing is at4
+[01:29:31] [Server thread/INFO] []: Spacing is at5
+[01:29:31] [Server thread/INFO] []: Spacing is at6
+[01:29:31] [Server thread/INFO] []: Spacing is at7
+[01:29:31] [Server thread/INFO] []: Spacing is at8
+[01:29:32] [Server thread/INFO] []: Spacing is at9
+[01:29:32] [Server thread/INFO] []: Spacing is at10
+[01:29:37] [Server thread/INFO] []: Spacing is at11
+[01:29:37] [Server thread/INFO] []: Spacing is at12
+[01:29:37] [Server thread/INFO] []: Spacing is at13
+[01:29:37] [Server thread/INFO] []: Spacing is at14
+[01:29:38] [Server thread/INFO] []: Spacing is at15
+[01:29:38] [Server thread/INFO] []: Spacing is at16
+[01:29:40] [Server thread/INFO] []: Spacing is at17
+[01:29:40] [Server thread/INFO] []: Spacing is at18
+[01:29:41] [Server thread/INFO] []: Spacing is at19
+[01:29:42] [Server thread/INFO] []: Spacing is at20
+[01:29:42] [Server thread/INFO] []: Spacing is at21
+[01:29:42] [Server thread/INFO] []: Spacing is at22
+[01:29:42] [Server thread/INFO] []: Spacing is at23
+[01:29:42] [Server thread/INFO] []: Spacing is at24
+[01:29:42] [Server thread/INFO] []: Spacing is at25
+[01:29:44] [Server thread/INFO] []: Spacing is at26
+[01:29:44] [Server thread/INFO] []: Spacing is at27
+[01:29:44] [Server thread/INFO] []: Spacing is at28
+[01:29:44] [Server thread/INFO] []: Spacing is at29
+[01:29:44] [Server thread/INFO] []: Spacing is at30
+[01:29:44] [Server thread/INFO] []: Spacing is at31
+[01:29:45] [Server thread/INFO] []: Spacing is at32
+[01:29:45] [Server thread/INFO] []: Spacing is at33
+[01:29:45] [Server thread/INFO] []: Spacing is at34
+[01:29:45] [Server thread/INFO] []: Spacing is at35
+[01:29:47] [Server thread/INFO] []: Spacing is at36
+[01:29:48] [Server thread/DEBUG] [FML]: Quark loaded a new chunk [-7, 42] in dimension 0 (overworld) while populating chunk [-6, 42], causing cascading worldgen lag.
+[01:29:48] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:29:48] [Server thread/INFO] []: Spacing is at37
+[01:29:48] [Server thread/DEBUG] [FML]: Quark loaded a new chunk [-7, 43] in dimension 0 (overworld) while populating chunk [-6, 42], causing cascading worldgen lag.
+[01:29:48] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:29:48] [Server thread/INFO] []: Spacing is at38
+[01:29:48] [Server thread/INFO] []: Spacing is at39
+[01:29:48] [Server thread/INFO] []: Spacing is at40
+[01:29:48] [Server thread/INFO] []: Spacing is at41
+[01:29:54] [Server thread/INFO] []: Spacing is at42
+[01:30:05] [Server thread/INFO] []: Spacing is at43
+[01:30:10] [Server thread/INFO] []: Spacing is at44
+[01:30:10] [Server thread/INFO] []: Spacing is at45
+[01:30:10] [Server thread/INFO] []: Spacing is at46
+[01:30:10] [Server thread/INFO] []: Spacing is at47
+[01:30:10] [Server thread/INFO] []: Spacing is at48
+[01:30:13] [Server thread/INFO] []: Spacing is at49
+[01:30:13] [Server thread/INFO] []: Spacing is at50
+[01:30:13] [Server thread/INFO] []: Spacing is at51
+[01:30:13] [Server thread/INFO] []: Spacing is at52
+[01:30:13] [Server thread/INFO] []: Spacing is at53
+[01:30:16] [Server thread/INFO] []: Spacing is at54
+[01:30:16] [Server thread/INFO] []: Spacing is at55
+[01:30:16] [Server thread/INFO] []: Spacing is at56
+[01:30:16] [Server thread/INFO] []: Spacing is at57
+[01:30:22] [Server thread/INFO] []: Spacing is at58
+[01:30:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:34:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn has made the advancement [Get Yourself Cleaned Up]

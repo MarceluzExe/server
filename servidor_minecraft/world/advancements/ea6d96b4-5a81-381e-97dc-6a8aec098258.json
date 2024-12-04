@@ -865,6 +865,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-04 01:20:42 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/baubles/scarlite_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:47:57 +0000"
@@ -1686,6 +1692,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:47:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-04 01:23:29 +0000"
     },
     "done": true
   },
