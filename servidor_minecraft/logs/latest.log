@@ -28370,3 +28370,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancientbeasts:witchcraft_tabl
 [01:11:09] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [01:11:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Vnknxwnexe[/100.101.152.116:59717] logged in with entity id 189593 at ([world]248.85872778531353, 66.9375, 648.7400181787331)
 [01:12:56] [Server thread/INFO] [mca]: Villager death: Mimi. Caused by: Vnknxwnexe. UUID: 4aef955b-8299-41a9-b3d9-850a87c942d1
+[01:14:48] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[01:14:48] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[01:14:48] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[01:14:48] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[01:14:48] [Server thread/INFO] [Meson ASM]: Patch result: true
+[01:15:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:17:00] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[01:17:00] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[01:17:00] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[01:17:00] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:17:00] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:17:00] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:17:00] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[01:17:00] [Server thread/INFO] [Quark ASM]: Patch result: true
+[01:20:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:20:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe has made the advancement [Best Friends Forever]
+[01:22:00] [Server thread/INFO] [mca]: Villager death: Parelela. Caused by: Vnknxwnexe. UUID: 5d2fce38-17f7-483b-86d6-91953daae31d
+[01:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe has made the advancement [Would you Like to Know More?]
