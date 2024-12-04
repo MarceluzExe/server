@@ -12,6 +12,13 @@
 verbose: false
 config-version: 13
 settings:
+  incoming-packet-spam-threshold: 300
+  player-auto-save-rate: -1
+  max-player-auto-save-per-tick: -1
+  remove-invalid-statistics: false
+  save-player-data: true
+  use-alternative-luck-formula: false
+  min-chunk-load-threads: 2
   suggest-player-names-when-null-tab-completions: true
   spam-limiter:
     tab-spam-increment: 10
@@ -23,14 +30,7 @@ settings:
   load-permissions-yml-before-plugins: true
   region-file-cache-size: 256
   enable-player-collisions: true
-  player-auto-save-rate: -1
-  max-player-auto-save-per-tick: -1
-  remove-invalid-statistics: false
-  save-player-data: true
-  use-alternative-luck-formula: false
-  min-chunk-load-threads: 2
   save-empty-scoreboard-teams: false
-  incoming-packet-spam-threshold: 300
   bungee-online-mode: true
 messages:
   kick:
