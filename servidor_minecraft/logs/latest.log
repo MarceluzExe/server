@@ -28478,3 +28478,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancientbeasts:witchcraft_tabl
 [01:30:22] [Server thread/INFO] []: Spacing is at58
 [01:30:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:34:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn has made the advancement [Get Yourself Cleaned Up]
+[01:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe has made the advancement [Jingle Bells]
+[01:35:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:40:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:42:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn is bleeding...
+[01:42:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe is bleeding...
+[01:42:25] [Netty Epoll Server IO #2/ERROR] [Mohist]: LEAK: ByteBuf.release() was not called before it's garbage-collected. See http://netty.io/wiki/reference-counted-objects.html for more information.
+Recent access records: 
+Created at:
+	io.netty.buffer.PooledByteBufAllocator.newDirectBuffer(PooledByteBufAllocator.java:331)
+	io.netty.buffer.AbstractByteBufAllocator.directBuffer(AbstractByteBufAllocator.java:185)
+	io.netty.buffer.AbstractByteBufAllocator.directBuffer(AbstractByteBufAllocator.java:171)
+	com.creativemd.creativecore.common.packet.CreativeMessageHandler.toBytes(CreativeMessageHandler.java:60)
+	net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:30)
+	net.minecraftforge.fml.common.network.simpleimpl.SimpleIndexedCodec.encodeInto(SimpleIndexedCodec.java:26)
+	net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.encode(FMLIndexedMessageToMessageCodec.java:78)
+	io.netty.handler.codec.MessageToMessageCodec$1.encode(MessageToMessageCodec.java:67)
+	io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88)
+	io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116)
+	io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+	io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+	io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+	io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+	io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+	io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+	io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+	net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:247)
+	com.creativemd.creativecore.common.packet.PacketHandler.sendPacketToPlayer(PacketHandler.java:81)
+	com.creativemd.creativecore.common.gui.container.SubContainer.sendNBTToGui(SubContainer.java:169)
+	com.creativemd.playerrevive.gui.SubContainerRevive.onTick(SubContainerRevive.java:34)
+	com.creativemd.creativecore.common.gui.mc.ContainerSub.func_75142_b(ContainerSub.java:55)
+	net.minecraft.entity.player.EntityPlayerMP.func_70071_h_(EntityPlayerMP.java:430)
+	net.minecraft.world.World.func_72866_a(World.java:2403)
+	net.minecraft.world.World.func_72870_g(World.java:2354)
+	net.minecraft.world.WorldServer.func_184147_l(WorldServer.java:774)
+	net.minecraft.world.World.func_72939_s(World.java:2104)
+	net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:744)
+	net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:897)
+	net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461)
+	net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778)
+	net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624)
+	java.lang.Thread.run(Thread.java:750)
+[01:42:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn was slain by Assimilated Human
+[01:42:30] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[01:42:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe was slain by Assimilated Human
+[01:42:30] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[01:42:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe is bleeding...
+[01:43:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe was slain by Rupter
+[01:43:05] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[01:43:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn is bleeding...
+[01:43:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn was slain by Vnknxwnexe
+[01:43:10] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[01:43:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn is bleeding...
