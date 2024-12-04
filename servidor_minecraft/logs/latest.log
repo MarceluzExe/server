@@ -28705,3 +28705,52 @@ Created at:
 [02:04:29] [Server thread/INFO] [mca]: Villager death: Paralela. Caused by: inWall. UUID: 12222503-f83a-4d35-b43e-989a5b5c432e
 [02:04:29] [Server thread/INFO] [mca]: Villager death: Paralela. Caused by: inWall. UUID: 22fe02ce-7a54-4a65-bff6-3b8b22994488
 [02:04:29] [Server thread/INFO] [mca]: Villager death: Paralela. Caused by: inWall. UUID: ae2a271e-2aa2-47c4-9f58-caf484350978
+[02:05:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn is bleeding...
+[02:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn was slain by Rupter
+[02:05:10] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[02:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe is bleeding...
+[02:05:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe was slain by Rupter
+[02:05:16] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[02:05:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:05:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MyrkByOrn lost connection: Timed out
+[02:05:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn left the game
+[02:05:58] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[02:06:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe is bleeding...
+[02:06:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe was slain by Rupter
+[02:06:31] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[02:10:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:10:48] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player MyrkByOrn is e7ccb8f4-7086-353c-a6c1-f56781637b87
+[02:10:48] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:10:48] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:10:48] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:10:48] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:10:48] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:49 mods->FMLHandshakeServerState$2:HELLO
+[02:10:49] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 49 mods : mowziesmobs@1.5.8,mca@6.1.0,creativecoredummy@1.0.0,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.1013,modularwarfare@2.4.2f,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,legacy_dweller@1.0.0,travelersbackpack@1.0.35,betteranimalsplus@9.0.1,pvj@1.6.4,betteranimationscollection2@1.0.2,llibrary@1.7.20,iceandfire@1.9.1,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,skinlayers3d@1.2.0,forge@14.23.5.2859,castle_dungeons@1.3,simpletomb@1.12.2-1.0.0,ancientbeasts@1.9.99999,betterpingdisplay@1.0,minecraft@1.12.2,openterraingenerator@v9.5-R2,baubles@1.5.2,creativecore@1.10.0,defiledlands@1.4.3,horror_elements_mod@1.0.0,eyesinthedarkness@0.1.0,quark@r1.6-179,xaerominimap@24.6.1,collective@3.0,weeping-angels@1.12.2-46,otgcore@1.12.2-v9.5-R2,autoreglib@1.3-32,galacticraftcore@4.0.6,FML@8.0.99.99,srparasites@1.9.21,cfm@6.3.0,xaerominimap_core@1.12.2-1.0,charm@1.4,infinitetrading@1.4,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30,playerrevive@1.0,da@0.0.7,mcwlights@1.0.6
+[02:10:49] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[02:10:49] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[02:10:49] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:10:49] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[02:10:51] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:10:51] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[02:10:51] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:10:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:10:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MyrkByOrn[/100.71.83.52:50172] logged in with entity id 2546696 at ([world]241.58818315359184, 64.0, 692.5835312226585)
+[02:10:51] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn is bleeding...
+[02:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn was slain by Rupter
+[02:11:14] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[02:13:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn is bleeding...
+[02:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe is bleeding...
+[02:13:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe was slain by Rupter
+[02:13:43] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[02:13:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn was slain by Rupter
+[02:13:54] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[02:14:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe is bleeding...
+[02:14:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe was slain by Vnknxwnexe
+[02:14:18] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[02:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn is bleeding...
+[02:14:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MyrkByOrn was slain by Rupter
+[02:14:22] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[02:14:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe is bleeding...
+[02:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Vnknxwnexe was slain by Vnknxwnexe
+[02:14:41] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
